@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "location": "Beirut",
+        "price": 140000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": true,
+        "size": 120
+    },
+    {
+        "id": 2,
+        "location": "Beirut",
+        "price": 175000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking": true,
+        "size": 150
+    },
+    {
+        "id": 3,
+        "location": "Beirut",
+        "price": 145000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": true,
+        "size": 110
+    },
+    {
+        "id": 4,
+        "location": "Beirut",
+        "price": 125000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking": false,
+        "size": 100
+    },
+    {
+        "id": 5,
+        "location": "Jounieh",
+        "price": 120000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": true,
+        "size": 115
+    },
+    {
+        "id": 6,
+        "location": "Jounieh",
+        "price": 160000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking": true,
+        "size": 140
+    },
+    {
+        "id": 7,
+        "location": "Beirut",
+        "price": 135000,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "parking": true,
+        "size": 80
+    },
+    {
+        "id": 8,
+        "location": "Beirut",
+        "price": 150000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": false,
+        "size": 125
+    }
+]
